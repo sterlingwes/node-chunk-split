@@ -1,0 +1,6 @@
+{"hello":"world"}
+{"test":"this"}
+{"another":1}
+{"non":"sensical"}
+{"just":{"random":"objects"}}
+{"this":["is","an","array"]}

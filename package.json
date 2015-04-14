@@ -1,0 +1,25 @@
+{
+  "name": "node-chunk-split",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*-spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sterlingwes/node-chunk-split"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sterlingwes/node-chunk-split/issues"
+  },
+  "homepage": "https://github.com/sterlingwes/node-chunk-split",
+  "dependencies": {
+    "mocha": "^2.2.4",
+    "nock": "^1.6.0",
+    "request": "^2.55.0",
+    "through": "^2.3.7"
+  }
+}
